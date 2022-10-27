@@ -1,6 +1,6 @@
 # Lecture-Video-Summarization-2.0
 
-#Solutions we offer
+# Solutions we offer
 
 Summarizing the content
 
