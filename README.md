@@ -5,3 +5,7 @@
 Summarizing the content
 
 Providing a short summary for the whole video
+
+Providing keywords and short clips related to the whole video
+
+Providing short clips related to the requested keyword
