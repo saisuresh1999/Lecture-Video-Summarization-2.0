@@ -11,5 +11,5 @@ Providing keywords and short clips related to the whole video
 Providing short clips related to the requested keyword
 
 
-<video src="summaryshort.mp4" width="800" height="500" />
+<video src="./summaryshort.mp4" width="800" height="500" />
 
