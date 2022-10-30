@@ -11,5 +11,8 @@ Providing keywords and short clips related to the whole video
 Providing short clips related to the requested keyword
 
 
-<video src="./summaryshort.mp4" width="800" height="500" />
 
+<video width="320" height="240" controls>
+  <source src="summaryshort.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
